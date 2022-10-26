@@ -32,8 +32,7 @@ p-7 hover:bg-gray-300 cursor-pointer
       <p>{data.message}</p>
       <title>{title}</title>
       <p>学ぶちゃんと</p>
-      <Link href="about/">
-        <a>About</a>
+      <Link href="about/">About
       </Link>
      
     </Content>
